@@ -1,1 +1,1 @@
-# Javascript Objects #
+# Javascript Classes anad Objects #
