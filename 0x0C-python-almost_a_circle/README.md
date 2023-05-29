@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Almost a circle
-=======
-Python Almost a circle
->>>>>>> refs/remotes/origin/main
+0x0C-python-almost_a_circle
