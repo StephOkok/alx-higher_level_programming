@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 This script lists all states from the
@@ -22,4 +21,3 @@ if __name__ == '__main__':
 
     for row in rows:
         print(row)
-
